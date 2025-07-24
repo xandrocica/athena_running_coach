@@ -34,6 +34,7 @@ dependencies:
   # Aggiungi queste due righe
   supabase_flutter: ^2.5.0 # Controlla sempre la versione più recente su pub.dev
   go_router: ^16.0.0 # Utile per la navigazione e per la gestione dei redirect di Supabase
+  flutter_dotenv: ^5.1.0
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
